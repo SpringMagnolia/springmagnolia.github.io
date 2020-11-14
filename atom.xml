@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://itfix.xyz</id>
+    <title>SpringMagnolia</title>
+    <updated>2020-11-14T16:15:25.073Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="http://itfix.xyz"/>
+    <link rel="self" href="http://itfix.xyz/atom.xml"/>
+    <subtitle>What I can&apos;t create, I don&apos;t understand</subtitle>
+    <logo>http://itfix.xyz/images/avatar.png</logo>
+    <icon>http://itfix.xyz/favicon.ico</icon>
+    <rights>All rights reserved 2020, SpringMagnolia</rights>
+</feed>
