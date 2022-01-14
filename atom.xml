@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://blog.itfix.xyz</id>
+    <id>https://springmagnolia.github.io</id>
     <title>SpringMagnolia</title>
     <updated>2020-11-14T16:22:35.442Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://blog.itfix.xyz"/>
-    <link rel="self" href="http://blog.itfix.xyz/atom.xml"/>
+    <generator>https://github.com/springmagnolia/feed</generator>
+    <link rel="alternate" href="https://springmagnolia.github.io"/>
+    <link rel="self" href="https://springmagnolia.github.io/atom.xml"/>
     <subtitle>What I can&apos;t create, I don&apos;t understand</subtitle>
-    <logo>http://blog.itfix.xyz/images/avatar.png</logo>
-    <icon>http://blog.itfix.xyz/favicon.ico</icon>
-    <rights>All rights reserved 2020, SpringMagnolia</rights>
+    <logo>https://springmagnolia.github.io/images/avatar.png</logo>
+    <icon>https://springmagnolia.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, SpringMagnolia</rights>
 </feed>
